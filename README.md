@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tbcfig
+- 👀 I’m interested in all things digital
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me tomas.bulicek@cfigse.com
